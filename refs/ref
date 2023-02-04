@@ -1,0 +1,55 @@
+// Git Hub Webhook
+
+https://en.wikipedia.org/wiki/Webhook
+https://www.redhat.com/en/topics/automation/what-is-a-webhook#webhooks-for-infrastructure-development
+
+https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks
+https://docs.github.com/en/developers/webhooks-and-events/webhooks/creating-webhooks
+https://docs.github.com/en/developers/webhooks-and-events/webhooks/securing-your-webhooks
+
+// Securing WebHooks Links
+https://stackoverflow.com/questions/3208160/how-to-generate-an-hmac-in-java-equivalent-to-a-python-example
+
+
+
+
+
+// ngrok
+
+https://www.sitepoint.com/accessing-localhost-from-anywhere/
+https://www.sitepoint.com/use-ngrok-test-local-site/
+https://www.softwaretestinghelp.com/ngrok-introduction/
+https://www.softwaretestinghelp.com/how-to-use-ngrok/
+
+// commands used for NGROK
+1-unzip
+2- add auth token
+./ngrok authtoken {authTokenFromWebsite}
+
+ref video https://www.youtube.com/watch?v=-kXrLMnh90s
+
+
+
+// Git Hub REST API
+
+https://docs.github.com/en/rest/quickstart?apiVersion=2022-11-28
+
+// personal access token
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+// repository Operations
+https://docs.github.com/en/rest/repos?apiVersion=2022-11-28
+https://docs.github.com/en/rest/repos/contents#download-a-repository-archive-tar
+https://stackoverflow.com/questions/8377081/github-api-download-zip-or-tarball-link
+
+// get commit info
+https://docs.github.com/en/rest/commits
+
+//user info
+https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28
+
+
+
+// Hosting application on cloud
+https://medium.com/codex/running-docker-containers-on-the-cloud-for-free-99af9c20bf6
+https://studio.mogenius.com/studio/cloud-space/cloud-space-overview
